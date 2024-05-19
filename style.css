@@ -1,0 +1,119 @@
+
+.main{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+}
+.face{
+    width: 297px;
+    height: 300px;
+    border: 4px solid black;
+    top: 75px;
+    border-radius: 150px;
+    position:absolute;
+    left: 102px;
+    background-color: pink;
+}
+.eyesl{
+    width: 50px;
+    height: 50px;
+    border: 4px solid black;
+    position: relative;
+   top: 97px;
+   right:40px;
+    border-radius: 50px;
+    background-color: white;
+}
+.eyesr{
+    width: 50px;
+    height: 50px;
+    border: 4px solid black;
+    position: relative;
+    top: 40px;
+    left: 50px;
+    border-radius: 50px;
+    background-color: white;
+}
+.r1
+{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top:15px;
+    left: 13px;
+    border-radius: 50px;
+    background-color: black;
+}
+.r2
+{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top:15px;
+    left: 13px;
+    border-radius: 50px;
+    background-color: black;
+}
+.mouth{
+    width: 150px;
+    height: 50px;
+    border: 4px solid black;
+    position: relative;
+    top: 60px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: rgb(216, 87, 141);}
+.ton
+{
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position:relative;
+    top: 9px;
+    left:20%;
+    border-radius: 50px 50px 50px 50px ;
+    background-color: black;
+}
+.ton1
+{
+    width: 20px;
+    height: 30px;
+    border: 1px solid black;
+    position:relative;
+    bottom:44%;
+    right:20%;
+    border-radius: 50px 50px 50px 50px ;
+    background-color: black;
+}
+.ear{
+    width: 90px;
+    height: 50px;
+    border: 4px solid black;
+    position: relative;
+    top: 60px;
+   
+    left:120px;
+    border-radius: 100px 100px 0px 0px;
+    background-color: pink;
+    transform: rotate(40deg);
+
+
+    }
+.ear1{
+        width:90px;
+        height: 50px;
+        border: 4px solid black;
+        position: relative;
+    
+        right:100px;
+        bottom:5px;
+        border-radius: 100px 100px 0px 0px;
+        background-color:pink;
+        transform: rotate(-35deg);
+    
+        }
+        
+    
+    
